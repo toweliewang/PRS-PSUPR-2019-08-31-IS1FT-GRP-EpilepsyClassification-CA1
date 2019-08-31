@@ -3,11 +3,8 @@
 ## SECTION 0 : Temporary note
 
 **Requirement**
-
 (1)Find one dataset for a classification or regression problem. The dataset should have at least 3000 records and 30 variables.
-
 (2)Use at least 3 different techniques to solve the problem.
-
 (3)You should partition the dataset into several subsets for different purposes eg. Training, Validation, Testing.
 
 (4)Build individual models to achieve the highest possible accuracy or lowest possible MSE.
@@ -15,12 +12,8 @@
 (5)Build ensemble/hybrid models.
 
 (6)Compare the performance of individual/ensemble models to identify the best solution.
-
-
 **Submission**
-
 The dataset
-
 Areport to describe:
 
 Tools/techniques you have used
