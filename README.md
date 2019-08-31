@@ -30,6 +30,8 @@
 | Alfred Tay Wenjie | A0198541W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
 | Wang Zilong | A0198523W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
 
+ **2-page reflection (learnings and contributions) by each team member**
+
 ## SECTION 2 : DATASET
 ## SECTION 3 : ENVIRONMENT & RUNNING STEPS
 
