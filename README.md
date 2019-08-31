@@ -33,7 +33,7 @@ your understanding and findings.
 
 Python/R/Java/… codes, model files, other supporting documents (if any)
 
-**Submission deadline **
+**Submission deadline**
 30/09/2019
 
 ## SECTION 1 : PROJECT TITLE
