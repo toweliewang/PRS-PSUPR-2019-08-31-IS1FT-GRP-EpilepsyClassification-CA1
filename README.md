@@ -32,7 +32,11 @@
 
 ## SECTION 2 : DATASET
 ## SECTION 3 : ENVIRONMENT & RUNNING STEPS
-## SECTION 4 : REPORT
+
+Python/R/Java/… codes, model files, other supporting documents (if any)
+
+## SECTION 4 : PYTHON SCRIPT
+## SECTION 5 : REPORT
 
 Tools/techniques you have used your design of the models
 
@@ -40,5 +44,5 @@ the performance of your models on the dataset (detailed results)
 
 your understanding and findings.
 
-Python/R/Java/… codes, model files, other supporting documents (if any)
+
 
