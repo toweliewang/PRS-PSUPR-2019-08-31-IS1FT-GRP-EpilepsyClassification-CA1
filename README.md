@@ -1,4 +1,4 @@
-# PRS-PSUPR-2019-08-31-IS1FT-GRP-TeamName-ProjectName
+# PRS-PSUPR-2019-08-31-IS1FT-GRP-TeamName-ProjectName(CA1）
 
 ## SECTION 0 : Temporary note
 
@@ -16,28 +16,12 @@
 
 (6)Compare the performance of individual/ensemble models to identify the best solution.
 
-**Submission**
-
-The dataset
-
-Areport to describe:
-
-Tools/techniques you have used
-
-your design of the models
-
-the performance of your models on the dataset (detailed results)
-
-your understanding and findings.
-
-Python/R/Java/… codes, model files, other supporting documents (if any)
 
 **Submission deadline**
 30/09/2019
 
-## SECTION 1 : PROJECT TITLE
-## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+
+## SECTION 1 : CREDITS / PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
@@ -45,7 +29,15 @@ Python/R/Java/… codes, model files, other supporting documents (if any)
 | Alfred Tay Wenjie | A0198541W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
 | Wang Zilong | A0198523W | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|  |
 
-## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
-## SECTION 5 : USER GUIDE
-## SECTION 6 : PROJECT REPORT / PAPER
-## SECTION 7 : MISCELLANEOUS
+## SECTION 2 : DATASET
+## SECTION 3 : ENVIRONMENT & RUNNING STEPS
+## SECTION 4 : REPORT
+
+Tools/techniques you have used your design of the models
+
+the performance of your models on the dataset (detailed results)
+
+your understanding and findings.
+
+Python/R/Java/… codes, model files, other supporting documents (if any)
+
