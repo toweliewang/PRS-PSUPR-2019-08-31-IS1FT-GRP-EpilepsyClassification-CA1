@@ -3,6 +3,7 @@
 ## SECTION 0 : Temporary note
 
 **Requirement**
+
 (1)Find one dataset for a classification or regression problem. The dataset should have at least 3000 records and 30 variables.
 
 (2)Use at least 3 different techniques to solve the problem.
@@ -16,6 +17,7 @@
 (6)Compare the performance of individual/ensemble models to identify the best solution.
 
 **Submission**
+
 The dataset
 
 Areport to describe:
